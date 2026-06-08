@@ -39,5 +39,5 @@ I build things that combine data and code: from Indonesian cultural heritage cla
 
 ## 📫 Contact
 
-[![Email](https://img.shields.io/badge/Email-adi@amxware.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:adi@amxware.com)
+[![Email](https://img.shields.io/badge/Email-abiekapw@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:abiekapw@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-abiekaputra-181717?style=flat&logo=github&logoColor=white)](https://github.com/abiekaputra)
